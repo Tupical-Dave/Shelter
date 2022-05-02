@@ -142,6 +142,13 @@ h4 {
     margin-bottom: 0px;
 }
 
+
+.header-nav ul li a:hover {
+    border-bottom: 3px solid #F1CDB3;
+    transition: left 500ms ease-out;
+
+}
+
 .active {
     border-bottom: 3px solid #F1CDB3;
 
@@ -243,6 +250,11 @@ h4 {
     margin-bottom: 0px;
  }
  
+ .btn:hover {
+    
+    background: #FDDCC4;
+     
+ }
  
  .start-puppy img{
     width: 698px;
@@ -372,6 +384,13 @@ h4 {
 
  }
 
+ .our-pets-pictures-style a:hover {
+ 
+    background-color: #FDDCC4;
+
+
+ }
+
  .our-friends-button {
     text-align: center;
     margin-top: 60px;
@@ -394,6 +413,14 @@ h4 {
     color: #292929;
     
  }
+
+ .our-friends-btn-main:hover {
+
+    background-color: #FDDCC4;
+    
+ }
+
+
 
  /* how to help page */
 
@@ -506,6 +533,14 @@ h4 {
     align-items: center;
     width: 349px;
     height: 43px;
+
+}
+
+
+.you-can-also-text a:hover{
+
+    background: #FDDCC4;
+ 
 
 }
 
