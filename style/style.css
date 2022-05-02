@@ -325,7 +325,19 @@ h4 {
 
  }
 
- .our-friends-title h3 {
+ .our-friends-title{
+    text-align: center;
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 130%;
+    letter-spacing: 0.06em;
+    color: #545454;
+
+ }
+ 
+ .our-friends-title a h3 {
     text-align: center;
     font-family: 'Georgia';
     font-style: normal;
